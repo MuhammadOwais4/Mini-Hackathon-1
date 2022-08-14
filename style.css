@@ -1,0 +1,19 @@
+body {
+    background-color: black !important;
+}
+
+.parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    margin: 10rem auto;
+}
+
+.parent span {
+    color: white;
+    font-size: x-large;
+    margin-top: 20%;
+}
